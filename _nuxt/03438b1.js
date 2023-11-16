@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{536:function(n,e,c){"use strict";c.r(e);var t={name:"license"},l=c(101),component=Object(l.a)(t,(function(){return(0,this._self._c)("div")}),[],!1,null,"3858d9ca",null);e.default=component.exports}}]);
